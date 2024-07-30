@@ -1,0 +1,14 @@
+D:\CSharp\CS_Library\obj\Debug\net8.0\CS_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CS_Library\obj\Debug\net8.0\CS_Library.AssemblyInfoInputs.cache
+D:\CSharp\CS_Library\obj\Debug\net8.0\CS_Library.AssemblyInfo.cs
+D:\CSharp\CS_Library\obj\Debug\net8.0\CS_Library.csproj.CoreCompileInputs.cache
+D:\CSharp\CS_Library\bin\Debug\net8.0\CS_Library.exe
+D:\CSharp\CS_Library\bin\Debug\net8.0\CS_Library.deps.json
+D:\CSharp\CS_Library\bin\Debug\net8.0\CS_Library.runtimeconfig.json
+D:\CSharp\CS_Library\bin\Debug\net8.0\CS_Library.dll
+D:\CSharp\CS_Library\bin\Debug\net8.0\CS_Library.pdb
+D:\CSharp\CS_Library\obj\Debug\net8.0\CS_Library.dll
+D:\CSharp\CS_Library\obj\Debug\net8.0\refint\CS_Library.dll
+D:\CSharp\CS_Library\obj\Debug\net8.0\CS_Library.pdb
+D:\CSharp\CS_Library\obj\Debug\net8.0\CS_Library.genruntimeconfig.cache
+D:\CSharp\CS_Library\obj\Debug\net8.0\ref\CS_Library.dll
